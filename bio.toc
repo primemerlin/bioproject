@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}Aim}{3}{section.1}%
+\contentsline {section}{\numberline {2}Introduction}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Pathology}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Plant Pathology}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Nature and importance of plant diseases(optional)}{3}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Diseases a normal part of nature}{4}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Plant disease}{4}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Disease development and transmission}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Pathogenesis and saprogenesis}{5}{subsection.3.1}%
