@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1} Introduction}{2}{}%
+\contentsline {section}{\numberline {2}Common Plant Diseases}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Powdery Mildew}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Late Blight}{2}{}%
+\contentsline {subsection}{\numberline {2.3} Citrus Canker}{2}{}%
+\contentsline {subsection}{\numberline {2.4}Rusts}{2}{}%
+\contentsline {section}{\numberline {3}Methods}{2}{}%
+\contentsline {subsection}{\numberline {3.1} Identification}{2}{}%
+\contentsline {subsection}{\numberline {3.2}Causes}{3}{}%
+\contentsline {subsection}{\numberline {3.3}Effects}{3}{}%
+\contentsline {subsection}{\numberline {3.4}Control Measures}{3}{}%
+\contentsline {subsection}{\numberline {3.5} Preventive Measures}{3}{}%
+\contentsline {section}{\numberline {4}Conclusion}{3}{}%
+\contentsline {section}{\numberline {5}References}{3}{}%
